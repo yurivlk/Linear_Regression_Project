@@ -1,7 +1,7 @@
 # Linear_Regression_Project
  The Linear Regression challenge
 
-<img> https://camo.githubusercontent.com/774022d3a24c206eb2551b556126be123fa0cfd7bec78843fbd5e3f45043ea68/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67 </img>
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Introduction
 
