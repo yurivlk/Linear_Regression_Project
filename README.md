@@ -1,7 +1,7 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
 # Linear_Regression_Project
  The Linear Regression challenge
-
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Introduction
 
